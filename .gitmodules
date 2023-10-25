@@ -1,0 +1,3 @@
+[submodule "Plugins/Pose2TwinUnrealPlugin"]
+	path = Plugins/Pose2TwinUnrealPlugin
+	url = git@github.com:edward-langstrand/Pose2TwinUnrealPlugin.git
